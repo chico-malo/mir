@@ -1,0 +1,20 @@
+{
+  "name": "mir",
+  "version": "1.0.0",
+  "description": "简单的几个命令，让你可以快速的切换镜像源",
+  "keywords": [
+    "npm",
+    "yarn",
+    "registry"
+  ],
+  "repository": {
+    "url": "git@github.com:chico-malo/mir.git",
+    "type": "git"
+  },
+  "main": "main.js",
+  "author": "ray",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1"
+  }
+}
